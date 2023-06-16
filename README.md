@@ -10,6 +10,6 @@
 |Wantedly|[伊藤有佑](https://www.wantedly.com/id/ysk1to)|
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1to&layout=donut&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ysk1to&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1to&layout=donut&theme=onedark" />
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=ysk1to&theme=onedark&show_icons=ture&count_private=true" />
 </p>
