@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+|key|value|
+|----|----|
+|Name|伊藤 有佑|
+|Place|千葉県 千葉市|
+|Birth|1989.05.08|
+|GitHub|[@ysk1to](https://github.com/ysk1to)|
+|Zenn|[@ysk1to](https://zenn.dev/ysk1to)|
+|Wantedly|[伊藤有佑](https://www.wantedly.com/id/ysk1to)|
 
 <!--
 **ysk1to/ysk1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
