@@ -9,6 +9,8 @@
 |Zenn|[@ysk1to](https://zenn.dev/ysk1to)|
 |Wantedly|[伊藤有佑](https://www.wantedly.com/id/ysk1to)|
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1to&layout=compact)
+
 <!--
 **ysk1to/ysk1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
