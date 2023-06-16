@@ -9,4 +9,7 @@
 |Zenn|[@ysk1to](https://zenn.dev/ysk1to)|
 |Wantedly|[伊藤有佑](https://www.wantedly.com/id/ysk1to)|
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1to&layout=donut)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1to&layout=donut&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ysk1to&theme=onedark&show_icons=ture" />
+</p>
