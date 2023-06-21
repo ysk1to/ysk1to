@@ -1,43 +1,13 @@
 ## Hi there 👋
 
-<div class="container">
-  <div class="tableContainer">
-    <table>
-      <tr>
-          <th>key</th>
-          <th>value</th>
-      </tr>
-      <tr>
-          <td>Name</td>
-          <td>伊藤 有佑</td>
-      </tr>
-      <tr>
-          <td>Place</td>
-          <td>千葉県 千葉市</td>
-      </tr>
-      <tr>
-          <td>Birth</td>
-          <td>1989.05.08</td>
-      </tr>
-      <tr>
-          <td>GitHub</td>
-          <td><a href="https://github.com/ysk1to">@ysk1to</a></td>
-      </tr>
-      <tr>
-          <td>Zenn</td>
-          <td><a href="https://zenn.dev/ysk1to">@ysk1to</a></td>
-      </tr>
-      <tr>
-          <td>Wantedly</td>
-          <td><a href="https://www.wantedly.com/id/ysk1to">伊藤有佑</a></td>
-      </tr>
-    </table>
-  </div>
-    <div class="imageContainer">
-        <img alt="Top Langs" max-height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysk1to&layout=donut&theme=onedark" />
-    </div>
-</div>
-
+|key|value|
+|----|----|
+|Name|伊藤 有佑|
+|Place|千葉県 千葉市|
+|Birth|1989.05.08|
+|GitHub|[@ysk1to](https://github.com/ysk1to)|
+|Zenn|[@ysk1to](https://zenn.dev/ysk1to)|
+|Wantedly|[伊藤有佑](https://www.wantedly.com/id/ysk1to)|
 
 ## 略歴
 
