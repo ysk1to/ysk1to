@@ -29,10 +29,24 @@
 
 現在はGo言語やPHP（Laravel）を中心としたアプリケーションの設計・開発、開発基盤の構築などを行っております。
 
-* Go言語、LaravelのAPI開発
+* Go言語、Laravelを用いたAPI開発
+  * DDDを用いたドメインモデリングとアプリケーション設計
+    * ドメイン駆動設計の戦術的パターンを活用した実装（集約、エンティティ、値オブジェクト等）
   * Go言語のAPI新規開発では開発基盤の設計から行い、スキーマ駆動開発を実現するため、`OpenAPI Generator`をカスタマイズし独自のコード生成ツールを作成しました。
     * 参考：[【Go言語】OpenAPI Generatorを使いこなすスキーマ駆動開発](https://zenn.dev/ysk1to/books/248fad8cb34abe)
   * アプリケーションの要件に沿った設計から開発、レビュー、エンジニアをサポートするツール作成など幅広く対応。
+
+* スクレイピングを用いたデータ収集、Webサイトの開発（サービス非公表）
+  * データ取得や整形処理、WebサイトのAPI・フロントエンドまで一貫して開発・運用を行っており、継続的に改善を進めています。
+  * 技術スタック
+    * データ収集
+      * Playwright（TypeScript）を活用し、大量のデータを効率的に収集・保存
+      * Goによる解析・データ整形
+    * Webサイト
+      * API: Laravel（PHP）を用いたWeb APIの開発
+      * フロントエンド: Next.js による動的なデータ表示と検索機能の実装
+      * インフラ: AWS（ECS, S3, RDS, ALB, Route53）を活用し、Terraform によるIaCで管理
+  * SEO・収益化: SSR（サーバーサイドレンダリング）とJSON-LDによるSEO対策、広告収益の最適化
 
 * 不動産ポータルサイト開発
   * Symfony、RubyのBFF開発を行っていました。
@@ -54,7 +68,7 @@ Laravel | Symfory | CakePHP | WordPress | EC-CUBE2,3,4
 
 HTML | CSS | SCSS | JavaScript | TypeScript
 
-Vue.js | react.js
+Vue.js | react.js | Next.js
 
 ### アプリ
 
